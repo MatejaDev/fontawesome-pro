@@ -10,3 +10,7 @@
 
 # Credits
 - By Nguyen Dang Hau
+
+# Usage
+- Follow in official website: [https://fontawesome.com/](https://fontawesome.com/)
+- Follow in official githup: [https://github.com/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
