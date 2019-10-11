@@ -1,4 +1,4 @@
-accessibility:
+﻿accessibility:
   icons:
     - accessible-icon
     - american-sign-language-interpreting
@@ -301,7 +301,7 @@ audio-video:
     - file-video
     - film
     - film-alt
-    - film-cannister
+    - film-canister
     - forward
     - head-side-headphones
     - headphones
@@ -1848,7 +1848,7 @@ images:
     - file-image
     - film
     - film-alt
-    - film-cannister
+    - film-canister
     - id-badge
     - id-card
     - image

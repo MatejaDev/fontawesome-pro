@@ -1,4 +1,4 @@
-A HEADS UP ABOUT DUOTONE ICONS ON THE DESKTOP
+﻿A HEADS UP ABOUT DUOTONE ICONS ON THE DESKTOP
 ---------------------------------------------
 
 Duotone icons are a bit different to use than other Font Awesome icons at the moment.

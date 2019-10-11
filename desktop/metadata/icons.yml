@@ -1,4 +1,4 @@
-500px:
+﻿500px:
   changes:
     - '4.4'
     - 5.0.0
@@ -14098,7 +14098,7 @@ film-alt:
     - duotone
   unicode: f3a0
   voted: false
-film-cannister:
+film-canister:
   changes:
     - 5.11.0
   label: Film Cannister
