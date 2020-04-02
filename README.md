@@ -1,6 +1,6 @@
 # Fontawesome Pro All version
 - 2/4/2020 Fontawesome Pro [5.13.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.13.0)
-- ~~2/4/2020 Fontawesome Pro [5.12.1](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.12.1)~~ sorry for miss version
+- ~~2/4/2020 Fontawesome Pro [5.12.1](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.12.1)~~ sorry for miss this version
 - 30/12/2019 Fontawesome Pro [5.12.0](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.12.0)
 - 11/10/2019 Fontawesome Pro [5.11.2](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.11.2)
 - 25/09/2019 Fontawesome Pro [5.11.1](https://github.com/ngdanghau/fontawesome-pro/releases/tag/5.11.1)
